@@ -1,0 +1,24 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "History",
+            "slug": "#history"
+        },
+        {
+            "id": 2,
+            "name": "Math",
+            "slug": "#math"
+        },
+        {
+            "id": 3,
+            "name": "Biology",
+            "slug": "#biology"
+        },
+        {
+            "id": 4,
+            "name": "Geopraphy",
+            "slug": "#geopraphy"
+        }
+    ]
+}

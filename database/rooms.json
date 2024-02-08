@@ -1,0 +1,88 @@
+{
+    "rooms": [
+        {
+            "capacity": 5,
+            "close_time": "2023-01-01 17:00:00",
+            "id": 1,
+            "is_private": false,
+            "name": "Room A",
+            "password": "",
+            "start_time": "2023-01-01 16:00:00",
+            "status": "Close",
+            "time_limit": 60,
+            "type": "exam"
+        },
+        {
+            "capacity": 5,
+            "close_time": "2023-01-01 18:00:00",
+            "id": 2,
+            "is_private": false,
+            "name": "Room B",
+            "password": "",
+            "start_time": "",
+            "status": "Lobby",
+            "time_limit": 60,
+            "type": "practice"
+        },
+        {
+            "capacity": 5,
+            "close_time": "2023-01-01 17:30:00",
+            "id": 3,
+            "is_private": false,
+            "name": "Room C",
+            "password": "",
+            "start_time": "2023-01-01 17:00:00",
+            "status": "Close",
+            "time_limit": 30,
+            "type": "exam"
+        },
+        {
+            "capacity": 2,
+            "close_time": "2024-01-04 02:12:43",
+            "id": 4,
+            "is_private": true,
+            "name": "Room D",
+            "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+            "start_time": "",
+            "status": "Lobby",
+            "time_limit": 45,
+            "type": "exam"
+        },
+        {
+            "capacity": 5,
+            "close_time": "",
+            "id": 5,
+            "is_private": false,
+            "name": "Room E",
+            "password": "",
+            "start_time": "2024-01-04 01:27:43",
+            "status": "Close",
+            "time_limit": 45,
+            "type": "practice"
+        },
+        {
+            "capacity": 2,
+            "close_time": "",
+            "id": 6,
+            "is_private": true,
+            "name": "Room Test",
+            "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+            "start_time": "",
+            "status": "Lobby",
+            "time_limit": 30,
+            "type": "exam"
+        },
+        {
+            "capacity": 4,
+            "close_time": "2024-01-11 23:25:49",
+            "id": 7,
+            "is_private": true,
+            "name": "Room Demo",
+            "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+            "start_time": "2024-01-11 23:24:49",
+            "status": "Lobby",
+            "time_limit": 1,
+            "type": "exam"
+        }
+    ]
+}

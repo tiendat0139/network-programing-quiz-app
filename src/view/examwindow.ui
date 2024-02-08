@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>ExamWindow</class>
+ <widget class="QMainWindow" name="ExamWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1280</width>
+    <height>712</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">QMainWindow {
+	background-color: rgb(224,224,224);
+}</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QHBoxLayout" name="horizontalLayout">
+    <property name="spacing">
+     <number>0</number>
+    </property>
+    <property name="leftMargin">
+     <number>0</number>
+    </property>
+    <property name="topMargin">
+     <number>0</number>
+    </property>
+    <property name="rightMargin">
+     <number>0</number>
+    </property>
+    <property name="bottomMargin">
+     <number>0</number>
+    </property>
+    <item>
+     <widget class="QWidget" name="widget" native="true">
+      <property name="sizePolicy">
+       <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+        <horstretch>4</horstretch>
+        <verstretch>0</verstretch>
+       </sizepolicy>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-color: #fff;
+border-right: 1px solid #e2e8f0;
+</string>
+      </property>
+      <widget class="QWidget" name="widget_3" native="true">
+       <property name="geometry">
+        <rect>
+         <x>0</x>
+         <y>0</y>
+         <width>421</width>
+         <height>91</height>
+        </rect>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">border-bottom: 1px solid #e2e8f0;
+background-color:#fff;</string>
+       </property>
+       <widget class="QLabel" name="label">
+        <property name="geometry">
+         <rect>
+          <x>20</x>
+          <y>30</y>
+          <width>151</width>
+          <height>22</height>
+         </rect>
+        </property>
+        <property name="font">
+         <font>
+          <family>Source Sans 3 SemiBold</family>
+          <pointsize>18</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">border: none;
+color: #000;
+</string>
+        </property>
+        <property name="text">
+         <string>Question List</string>
+        </property>
+       </widget>
+       <widget class="QLabel" name="countdownLabel">
+        <property name="geometry">
+         <rect>
+          <x>240</x>
+          <y>30</y>
+          <width>151</width>
+          <height>22</height>
+         </rect>
+        </property>
+        <property name="font">
+         <font>
+          <family>Source Sans 3</family>
+          <pointsize>22</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">border: none;</string>
+        </property>
+        <property name="text">
+         <string>1h 47m 13s</string>
+        </property>
+       </widget>
+      </widget>
+      <widget class="QWidget" name="gridLayoutWidget">
+       <property name="geometry">
+        <rect>
+         <x>0</x>
+         <y>90</y>
+         <width>421</width>
+         <height>621</height>
+        </rect>
+       </property>
+       <layout class="QGridLayout" name="gridLayout">
+        <property name="topMargin">
+         <number>9</number>
+        </property>
+        <property name="spacing">
+         <number>0</number>
+        </property>
+        <item row="0" column="0">
+         <widget class="QPushButton" name="pushButton">
+          <property name="font">
+           <font>
+            <family>Source Sans 3</family>
+            <weight>75</weight>
+            <bold>true</bold>
+           </font>
+          </property>
+          <property name="styleSheet">
+           <string notr="true">background-color: #F6F9FC;
+border: none;
+min-height: 46px;
+max-width: 46px;
+border-radius: 6px;
+font-family: &quot;Source Sans 3&quot;;
+font-weight: bold;
+color: #67758D;
+</string>
+          </property>
+          <property name="text">
+           <string>1</string>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+     </widget>
+    </item>
+    <item>
+     <widget class="QWidget" name="widget_2" native="true">
+      <property name="sizePolicy">
+       <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+        <horstretch>8</horstretch>
+        <verstretch>0</verstretch>
+       </sizepolicy>
+      </property>
+      <property name="font">
+       <font>
+        <family>Source Sans 3</family>
+        <pointsize>12</pointsize>
+       </font>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-color: #fff;</string>
+      </property>
+      <widget class="QWidget" name="widget_4" native="true">
+       <property name="geometry">
+        <rect>
+         <x>10</x>
+         <y>10</y>
+         <width>811</width>
+         <height>151</height>
+        </rect>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">#widget_4{
+	border-bottom: 1px solid #e2e8f0;
+}</string>
+       </property>
+       <widget class="QLabel" name="label_3">
+        <property name="geometry">
+         <rect>
+          <x>20</x>
+          <y>30</y>
+          <width>141</width>
+          <height>31</height>
+         </rect>
+        </property>
+        <property name="font">
+         <font>
+          <family>Source Sans 3</family>
+          <pointsize>24</pointsize>
+          <weight>75</weight>
+          <italic>false</italic>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>Question</string>
+        </property>
+       </widget>
+       <widget class="QLabel" name="questionText">
+        <property name="geometry">
+         <rect>
+          <x>20</x>
+          <y>80</y>
+          <width>771</width>
+          <height>61</height>
+         </rect>
+        </property>
+        <property name="font">
+         <font>
+          <family>Source Sans 3</family>
+         </font>
+        </property>
+        <property name="text">
+         <string>Which of the following is appropriate as the characteristic of single sign-on?</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignTop</set>
+        </property>
+        <property name="wordWrap">
+         <bool>true</bool>
+        </property>
+       </widget>
+       <widget class="QLabel" name="questionNumber">
+        <property name="geometry">
+         <rect>
+          <x>155</x>
+          <y>30</y>
+          <width>131</width>
+          <height>31</height>
+         </rect>
+        </property>
+        <property name="font">
+         <font>
+          <family>Source Sans 3</family>
+          <pointsize>24</pointsize>
+          <weight>75</weight>
+          <italic>false</italic>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>1</string>
+        </property>
+       </widget>
+      </widget>
+      <widget class="QLabel" name="label_5">
+       <property name="geometry">
+        <rect>
+         <x>30</x>
+         <y>180</y>
+         <width>281</width>
+         <height>22</height>
+        </rect>
+       </property>
+       <property name="font">
+        <font>
+         <family>Source Sans 3</family>
+         <pointsize>13</pointsize>
+         <weight>50</weight>
+         <bold>false</bold>
+        </font>
+       </property>
+       <property name="text">
+        <string>Choose the correct answer:</string>
+       </property>
+      </widget>
+      <widget class="QWidget" name="verticalLayoutWidget">
+       <property name="geometry">
+        <rect>
+         <x>29</x>
+         <y>230</y>
+         <width>791</width>
+         <height>341</height>
+        </rect>
+       </property>
+       <layout class="QVBoxLayout" name="optionList"/>
+      </widget>
+      <widget class="QWidget" name="widget_5" native="true">
+       <property name="geometry">
+        <rect>
+         <x>9</x>
+         <y>579</y>
+         <width>811</width>
+         <height>121</height>
+        </rect>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">#widget_5{
+	border-top: 1px solid #e2e8f0;
+}</string>
+       </property>
+       <widget class="QPushButton" name="submitButton">
+        <property name="geometry">
+         <rect>
+          <x>680</x>
+          <y>50</y>
+          <width>130</width>
+          <height>46</height>
+         </rect>
+        </property>
+        <property name="font">
+         <font>
+          <family>Source Sans 3 SemiBold</family>
+          <weight>50</weight>
+          <bold>false</bold>
+         </font>
+        </property>
+        <property name="cursor">
+         <cursorShape>PointingHandCursor</cursorShape>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">#submitButton {
+	background-color: rgb(9, 44, 76);
+	border: none;
+	color: #fff;
+	border-radius: 23px;
+}
+
+#submitButton:hover {
+	background-color: rgba(9, 44, 76, 0.9);
+}</string>
+        </property>
+        <property name="text">
+         <string>Submit</string>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="clearButton">
+        <property name="geometry">
+         <rect>
+          <x>20</x>
+          <y>10</y>
+          <width>98</width>
+          <height>30</height>
+         </rect>
+        </property>
+        <property name="font">
+         <font>
+          <family>Source Sans 3 SemiBold</family>
+         </font>
+        </property>
+        <property name="cursor">
+         <cursorShape>PointingHandCursor</cursorShape>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">color: #67758D;
+border: none;</string>
+        </property>
+        <property name="text">
+         <string>Clear Answer</string>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="gobackButton">
+        <property name="geometry">
+         <rect>
+          <x>20</x>
+          <y>50</y>
+          <width>151</width>
+          <height>46</height>
+         </rect>
+        </property>
+        <property name="font">
+         <font>
+          <family>Source Sans 3 SemiBold</family>
+          <weight>50</weight>
+          <bold>false</bold>
+         </font>
+        </property>
+        <property name="cursor">
+         <cursorShape>PointingHandCursor</cursorShape>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">#gobackButton {
+	background-color: rgb(222, 229, 239); 
+	border-radius: 23px;
+   color: #67758D; 
+}
+#gobackButton:hover {
+	background-color: rgba(222, 229, 239, 0.9); 
+}</string>
+        </property>
+        <property name="text">
+         <string>Go back</string>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="nextButton">
+        <property name="geometry">
+         <rect>
+          <x>220</x>
+          <y>50</y>
+          <width>151</width>
+          <height>46</height>
+         </rect>
+        </property>
+        <property name="font">
+         <font>
+          <family>Source Sans 3 SemiBold</family>
+          <weight>50</weight>
+          <bold>false</bold>
+         </font>
+        </property>
+        <property name="cursor">
+         <cursorShape>PointingHandCursor</cursorShape>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">#nextButton {
+	background-color: rgb(0, 191, 154);
+	border-radius: 23px;
+	color: #fff;
+}
+
+#nextButton:hover {
+	background-color: rgba(0, 191, 154, 0.9);
+}</string>
+        </property>
+        <property name="text">
+         <string>Next Question</string>
+        </property>
+       </widget>
+      </widget>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

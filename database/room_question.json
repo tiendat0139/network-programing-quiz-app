@@ -1,0 +1,112 @@
+{
+    "room_question": [
+        {
+            "question_id": 1,
+            "room_id": 1
+        },
+        {
+            "question_id": 5,
+            "room_id": 1
+        },
+        {
+            "question_id": 10,
+            "room_id": 1
+        },
+        {
+            "question_id": 15,
+            "room_id": 1
+        },
+        {
+            "question_id": 20,
+            "room_id": 1
+        },
+        {
+            "question_id": 16,
+            "room_id": 2
+        },
+        {
+            "question_id": 19,
+            "room_id": 2
+        },
+        {
+            "question_id": 22,
+            "room_id": 2
+        },
+        {
+            "question_id": 25,
+            "room_id": 2
+        },
+        {
+            "question_id": 28,
+            "room_id": 2
+        },
+        {
+            "question_id": 17,
+            "room_id": 4
+        },
+        {
+            "question_id": 20,
+            "room_id": 4
+        },
+        {
+            "question_id": 23,
+            "room_id": 4
+        },
+        {
+            "question_id": 25,
+            "room_id": 4
+        },
+        {
+            "question_id": 16,
+            "room_id": 6
+        },
+        {
+            "question_id": 18,
+            "room_id": 6
+        },
+        {
+            "question_id": 19,
+            "room_id": 6
+        },
+        {
+            "question_id": 21,
+            "room_id": 6
+        },
+        {
+            "question_id": 20,
+            "room_id": 6
+        },
+        {
+            "question_id": 27,
+            "room_id": 6
+        },
+        {
+            "question_id": 25,
+            "room_id": 6
+        },
+        {
+            "question_id": 28,
+            "room_id": 6
+        },
+        {
+            "question_id": 16,
+            "room_id": 7
+        },
+        {
+            "question_id": 19,
+            "room_id": 7
+        },
+        {
+            "question_id": 22,
+            "room_id": 7
+        },
+        {
+            "question_id": 27,
+            "room_id": 7
+        },
+        {
+            "question_id": 28,
+            "room_id": 7
+        }
+    ]
+}

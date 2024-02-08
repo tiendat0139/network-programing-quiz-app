@@ -1,0 +1,1099 @@
+2024-01-11 22:19:32 4 0x02 request/login    
+2024-01-11 22:19:32 4 0x03 response/login SUCCESS Login success!
+2024-01-11 22:19:32 4 0x00 request/category/list    
+2024-01-11 22:19:32 4 0x01 response/category/list SUCCESS  
+2024-01-11 22:19:32 4 0x00 request/room/list    
+2024-01-11 22:19:32 4 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-11 22:19:32 4 0x00 request/room/detail    
+2024-01-11 22:19:32 4 0x01 response/room/detail   Get room detail success
+2024-01-11 22:19:32 4 0x00 request/room/list/owner    
+2024-01-11 22:19:32 4 0x01 response/room/list/owner FAILURE No matching rooms found
+2024-01-11 22:19:35 4 0x00 request/room/join    
+2024-01-11 22:19:35 4 0x01 response/room/join SUCCESS Join room successful!
+2024-01-11 22:19:40 4 0x00 request/room/join    
+2024-01-11 22:19:40 4 0x01 response/room/join SUCCESS Join room successful!
+2024-01-11 22:19:40 4 0x00 request/room/detail    
+2024-01-11 22:19:40 4 0x01 response/room/detail   Get room detail success
+2024-01-11 22:19:44 4 Error: Cannot received data from client!
+2024-01-11 22:27:26 4 0x02 request/login    
+2024-01-11 22:27:26 4 0x03 response/login SUCCESS Login success!
+2024-01-11 22:27:26 4 0x00 request/category/list    
+2024-01-11 22:27:26 4 0x01 response/category/list SUCCESS  
+2024-01-11 22:27:26 4 0x00 request/room/list    
+2024-01-11 22:27:26 4 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-11 22:27:26 4 0x00 request/room/detail    
+2024-01-11 22:27:26 4 0x01 response/room/detail   Get room detail success
+2024-01-11 22:27:26 4 0x00 request/room/list/owner    
+2024-01-11 22:27:26 4 0x01 response/room/list/owner FAILURE No matching rooms found
+2024-01-11 22:27:30 4 0x00 request/room/join    
+2024-01-11 22:27:30 4 0x01 response/room/join SUCCESS Join room successful!
+2024-01-11 22:27:30 4 Error: Cannot received data from client!
+2024-01-11 22:28:15 4 0x02 request/login    
+2024-01-11 22:28:15 4 0x03 response/login SUCCESS Login success!
+2024-01-11 22:28:15 4 0x00 request/category/list    
+2024-01-11 22:28:15 4 0x01 response/category/list SUCCESS  
+2024-01-11 22:28:15 4 0x00 request/room/list    
+2024-01-11 22:28:15 4 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-11 22:28:15 4 0x00 request/room/detail    
+2024-01-11 22:28:15 4 0x01 response/room/detail   Get room detail success
+2024-01-11 22:28:15 4 0x00 request/room/list/owner    
+2024-01-11 22:28:15 4 0x01 response/room/list/owner FAILURE No matching rooms found
+2024-01-11 22:28:21 4 0x00 request/room/join    
+2024-01-11 22:28:21 4 0x01 response/room/join SUCCESS Join room successful!
+2024-01-11 22:28:23 4 0x00 request/room/join    
+2024-01-11 22:28:23 4 0x01 response/room/join SUCCESS Join room successful!
+2024-01-11 22:28:23 4 0x00 request/room/detail    
+2024-01-11 22:28:23 4 0x01 response/room/detail   Get room detail success
+2024-01-11 22:32:55 4 0x02 request/login    
+2024-01-11 22:32:55 4 0x03 response/login SUCCESS Login success!
+2024-01-11 22:32:55 4 0x00 request/category/list    
+2024-01-11 22:32:55 4 0x01 response/category/list SUCCESS  
+2024-01-11 22:32:55 4 0x00 request/room/list    
+2024-01-11 22:32:55 4 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-11 22:32:55 4 0x00 request/room/detail    
+2024-01-11 22:32:55 4 0x01 response/room/detail   Get room detail success
+2024-01-11 22:32:55 4 0x00 request/room/list/owner    
+2024-01-11 22:32:55 4 0x01 response/room/list/owner FAILURE No matching rooms found
+2024-01-11 22:32:59 4 0x00 request/room/join    
+2024-01-11 22:32:59 4 0x01 response/room/join SUCCESS Join room successful!
+2024-01-11 22:33:02 4 0x00 request/room/join    
+2024-01-11 22:33:02 4 0x01 response/room/join SUCCESS Join room successful!
+2024-01-11 22:33:02 4 0x00 request/room/detail    
+2024-01-11 22:33:02 4 0x01 response/room/detail   Get room detail success
+2024-01-11 22:35:00 4 Error: Cannot received data from client!
+2024-01-11 22:41:04 4 0x02 request/login    
+2024-01-11 22:41:04 4 0x03 response/login SUCCESS Login success!
+2024-01-11 22:41:04 4 0x00 request/category/list    
+2024-01-11 22:41:04 4 0x01 response/category/list SUCCESS  
+2024-01-11 22:41:04 4 0x00 request/room/list    
+2024-01-11 22:41:04 4 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-11 22:41:04 4 0x00 request/room/detail    
+2024-01-11 22:41:04 4 0x01 response/room/detail   Get room detail success
+2024-01-11 22:41:07 4 0x00 request/room/join    
+2024-01-11 22:41:07 4 0x01 response/room/join SUCCESS Join room successful!
+2024-01-11 22:41:09 4 0x00 request/room/join    
+2024-01-11 22:41:09 4 0x01 response/room/join SUCCESS Join room successful!
+2024-01-11 22:41:09 4 0x00 request/room/detail    
+2024-01-11 22:41:09 4 0x01 response/room/detail   Get room detail success
+2024-01-11 22:41:10 4 Error: Cannot received data from client!
+2024-01-11 22:42:13 4 Error: Cannot received data from client!
+2024-01-11 22:45:47 4 0x02 request/login    
+2024-01-11 22:45:47 4 0x03 response/login SUCCESS Login success!
+2024-01-11 22:45:47 4 0x00 request/category/list    
+2024-01-11 22:45:47 4 0x01 response/category/list SUCCESS  
+2024-01-11 22:45:47 4 0x00 request/room/list    
+2024-01-11 22:45:47 4 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-11 22:45:47 4 0x00 request/room/detail    
+2024-01-11 22:45:47 4 0x01 response/room/detail   Get room detail success
+2024-01-11 22:45:47 4 0x00 request/room/list/owner    
+2024-01-11 22:45:47 4 0x01 response/room/list/owner FAILURE No matching rooms found
+2024-01-11 22:45:52 4 0x00 request/room/join    
+2024-01-11 22:45:52 4 0x01 response/room/join SUCCESS Join room successful!
+2024-01-11 22:45:52 4 0x00 request/room/join    
+2024-01-11 22:45:52 4 0x01 response/room/join SUCCESS Join room successful!
+2024-01-11 22:45:52 4 0x00 request/room/detail    
+2024-01-11 22:45:52 4 0x01 response/room/detail   Get room detail success
+2024-01-11 22:46:06 5 0x02 request/login    
+2024-01-11 22:46:06 5 0x03 response/login FAILURE Account not exists.
+2024-01-11 22:46:10 5 0x02 request/login    
+2024-01-11 22:46:10 5 0x03 response/login SUCCESS Login success!
+2024-01-11 22:46:10 5 0x00 request/category/list    
+2024-01-11 22:46:10 5 0x01 response/category/list SUCCESS  
+2024-01-11 22:46:10 5 0x00 request/room/list    
+2024-01-11 22:46:10 5 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-11 22:46:10 5 0x00 request/room/detail    
+2024-01-11 22:46:10 5 0x01 response/room/detail   Get room detail success
+2024-01-11 22:46:10 5 0x00 request/room/list/owner    
+2024-01-11 22:46:10 5 0x01 response/room/list/owner FAILURE No matching rooms found
+2024-01-11 22:46:10 5 Error: Cannot received data from client!
+2024-01-11 22:50:03 4 Error: Cannot received data from client!
+2024-01-11 22:50:17 4 0x02 request/login    
+2024-01-11 22:50:17 4 0x03 response/login SUCCESS Login success!
+2024-01-11 22:50:17 4 0x00 request/category/list    
+2024-01-11 22:50:17 4 0x01 response/category/list SUCCESS  
+2024-01-11 22:50:17 4 0x00 request/room/list    
+2024-01-11 22:50:17 4 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-11 22:50:17 4 0x00 request/room/detail    
+2024-01-11 22:50:17 4 0x01 response/room/detail   Get room detail success
+2024-01-11 22:50:17 4 0x00 request/room/list/owner    
+2024-01-11 22:50:17 4 0x01 response/room/list/owner FAILURE No matching rooms found
+2024-01-11 22:50:20 4 0x00 request/room/join    
+2024-01-11 22:50:20 4 0x01 response/room/join SUCCESS Join room successful!
+2024-01-11 22:50:21 4 0x00 request/room/join    
+2024-01-11 22:50:21 4 0x01 response/room/join SUCCESS Join room successful!
+2024-01-11 22:50:21 4 0x00 request/room/detail    
+2024-01-11 22:50:21 4 0x01 response/room/detail   Get room detail success
+2024-01-11 22:50:30 5 0x02 request/login    
+2024-01-11 22:50:30 5 0x03 response/login SUCCESS Login success!
+2024-01-11 22:50:30 5 0x00 request/category/list    
+2024-01-11 22:50:30 5 0x01 response/category/list SUCCESS  
+2024-01-11 22:50:30 5 0x00 request/room/list    
+2024-01-11 22:50:30 5 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-11 22:50:30 5 0x00 request/room/detail    
+2024-01-11 22:50:30 5 0x01 response/room/detail   Get room detail success
+2024-01-11 22:50:30 5 0x00 request/room/list/owner    
+2024-01-11 22:50:30 5 0x01 response/room/list/owner FAILURE No matching rooms found
+2024-01-11 22:50:34 5 0x00 request/room/join    
+2024-01-11 22:50:34 5 0x01 response/room/join SUCCESS Join room successful!
+2024-01-11 22:50:35 5 0x00 request/room/join    
+2024-01-11 22:50:35 5 0x01 response/room/join SUCCESS Join room successful!
+2024-01-11 22:50:35 5 0x00 request/room/detail    
+2024-01-11 22:50:35 5 0x01 response/room/detail   Get room detail success
+2024-01-11 22:50:38 5 0x00 request/room/ready    
+2024-01-11 22:50:38 5 0x01 response/room/ready SUCCESS 
+2024-01-11 22:50:38 4 0x01 response/room/ready SUCCESS 
+2024-01-11 22:50:42 4 0x02 request/room/start    
+2024-01-11 22:50:42 5 0x03 response/room/start SUCCESS  
+2024-01-11 22:50:42 4 0x03 response/room/start SUCCESS  
+2024-01-11 22:50:42 5 0x00 request/question/get/room    
+2024-01-11 22:50:42 5 0x01 response/question/get/room SUCCESS Get list question by room success.
+2024-01-11 22:51:02 5 0x02 request/answer/submit    
+2024-01-11 22:51:02 5 0x03 response/answer/submit SUCCESS Answer saved successfully
+2024-01-11 22:51:06 5 0x02 request/answer/submit    
+2024-01-11 22:51:06 5 0x03 response/answer/submit SUCCESS Answer saved successfully
+2024-01-11 22:51:08 5 0x02 request/answer/submit    
+2024-01-11 22:51:08 5 0x03 response/answer/submit SUCCESS Answer saved successfully
+2024-01-11 22:51:09 5 0x04 request/practice/end    
+2024-01-11 22:51:09 5 0x05 response/practice/end   
+2024-01-11 22:51:20 4 Error: Cannot received data from client!
+2024-01-11 22:51:22 5 Error: Cannot received data from client!
+2024-01-11 22:54:05 4 0x02 request/login    
+2024-01-11 22:54:05 4 0x03 response/login SUCCESS Login success!
+2024-01-11 22:54:05 4 0x00 request/category/list    
+2024-01-11 22:54:05 4 0x01 response/category/list SUCCESS  
+2024-01-11 22:54:05 4 0x00 request/room/list    
+2024-01-11 22:54:05 4 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-11 22:54:05 4 0x00 request/room/detail    
+2024-01-11 22:54:05 4 0x01 response/room/detail   Get room detail success
+2024-01-11 22:54:05 4 0x00 request/room/list/owner    
+2024-01-11 22:54:05 4 0x01 response/room/list/owner FAILURE No matching rooms found
+2024-01-11 22:54:07 4 0x00 request/category/list    
+2024-01-11 22:54:07 4 0x01 response/category/list SUCCESS  
+2024-01-11 22:54:31 4 Error: Cannot received data from client!
+2024-01-11 22:55:41 4 Error: Cannot received data from client!
+2024-01-11 22:56:53 4 0x02 request/login    
+2024-01-11 22:56:53 4 0x03 response/login SUCCESS Login success!
+2024-01-11 22:56:53 4 0x00 request/category/list    
+2024-01-11 22:56:53 4 0x01 response/category/list SUCCESS  
+2024-01-11 22:56:53 4 0x00 request/room/list    
+2024-01-11 22:56:53 4 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-11 22:56:53 4 0x00 request/room/detail    
+2024-01-11 22:56:53 4 0x01 response/room/detail   Get room detail success
+2024-01-11 22:56:53 4 0x00 request/room/list/owner    
+2024-01-11 22:56:53 4 0x01 response/room/list/owner FAILURE No matching rooms found
+2024-01-11 22:56:54 4 0x00 request/category/list    
+2024-01-11 22:56:54 4 0x01 response/category/list SUCCESS  
+2024-01-11 22:57:04 4 Error: Cannot received data from client!
+2024-01-11 22:58:00 4 0x02 request/login    
+2024-01-11 22:58:00 4 0x03 response/login SUCCESS Login success!
+2024-01-11 22:58:00 4 0x00 request/category/list    
+2024-01-11 22:58:00 4 0x01 response/category/list SUCCESS  
+2024-01-11 22:58:00 4 0x00 request/room/list    
+2024-01-11 22:58:00 4 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-11 22:58:00 4 0x00 request/room/detail    
+2024-01-11 22:58:00 4 0x01 response/room/detail   Get room detail success
+2024-01-11 22:58:00 4 0x00 request/room/list/owner    
+2024-01-11 22:58:00 4 0x01 response/room/list/owner FAILURE No matching rooms found
+2024-01-11 22:58:02 4 0x00 request/category/list    
+2024-01-11 22:58:02 4 0x01 response/category/list SUCCESS  
+2024-01-11 22:58:10 4 Error: Cannot received data from client!
+2024-01-11 22:58:47 4 0x02 request/login    
+2024-01-11 22:58:47 4 0x03 response/login SUCCESS Login success!
+2024-01-11 22:58:47 4 0x00 request/category/list    
+2024-01-11 22:58:47 4 0x01 response/category/list SUCCESS  
+2024-01-11 22:58:47 4 0x00 request/room/list    
+2024-01-11 22:58:47 4 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-11 22:58:47 4 0x00 request/room/detail    
+2024-01-11 22:58:47 4 0x01 response/room/detail   Get room detail success
+2024-01-11 22:58:47 4 0x00 request/room/list/owner    
+2024-01-11 22:58:47 4 0x01 response/room/list/owner FAILURE No matching rooms found
+2024-01-11 22:58:48 4 0x00 request/category/list    
+2024-01-11 22:58:48 4 0x01 response/category/list SUCCESS  
+2024-01-11 22:59:15 4 Error: Cannot received data from client!
+2024-01-11 23:04:51 4 0x02 request/login    
+2024-01-11 23:04:51 4 0x03 response/login SUCCESS Login success!
+2024-01-11 23:04:51 4 0x00 request/category/list    
+2024-01-11 23:04:51 4 0x01 response/category/list SUCCESS  
+2024-01-11 23:04:51 4 0x00 request/room/list    
+2024-01-11 23:04:51 4 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-11 23:04:51 4 0x00 request/room/detail    
+2024-01-11 23:04:51 4 0x01 response/room/detail   Get room detail success
+2024-01-11 23:04:51 4 0x00 request/room/list/owner    
+2024-01-11 23:04:51 4 0x01 response/room/list/owner FAILURE No matching rooms found
+2024-01-11 23:04:52 4 0x00 request/category/list    
+2024-01-11 23:04:52 4 0x01 response/category/list SUCCESS  
+2024-01-11 23:05:31 4 0x00 request/category/list    
+2024-01-11 23:05:31 4 0x01 response/category/list SUCCESS  
+2024-01-11 23:05:47 4 Error: Cannot received data from client!
+2024-01-11 23:08:10 4 0x02 request/login    
+2024-01-11 23:08:10 4 0x03 response/login SUCCESS Login success!
+2024-01-11 23:08:10 4 0x00 request/category/list    
+2024-01-11 23:08:10 4 0x01 response/category/list SUCCESS  
+2024-01-11 23:08:10 4 0x00 request/room/list    
+2024-01-11 23:08:10 4 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-11 23:08:10 4 0x00 request/room/detail    
+2024-01-11 23:08:10 4 0x01 response/room/detail   Get room detail success
+2024-01-11 23:08:10 4 0x00 request/room/list/owner    
+2024-01-11 23:08:10 4 0x01 response/room/list/owner FAILURE No matching rooms found
+2024-01-11 23:08:11 4 0x00 request/category/list    
+2024-01-11 23:08:11 4 0x01 response/category/list SUCCESS  
+2024-01-11 23:08:16 4 0x00 request/category/list    
+2024-01-11 23:08:16 4 0x01 response/category/list SUCCESS  
+2024-01-11 23:08:27 4 Error: Cannot received data from client!
+2024-01-11 23:12:45 4 0x02 request/login    
+2024-01-11 23:12:45 4 0x03 response/login SUCCESS Login success!
+2024-01-11 23:12:45 4 0x00 request/category/list    
+2024-01-11 23:12:45 4 0x01 response/category/list SUCCESS  
+2024-01-11 23:12:45 4 0x00 request/room/list    
+2024-01-11 23:12:45 4 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-11 23:12:45 4 0x00 request/room/detail    
+2024-01-11 23:12:45 4 0x01 response/room/detail   Get room detail success
+2024-01-11 23:12:45 4 0x00 request/room/list/owner    
+2024-01-11 23:12:45 4 0x01 response/room/list/owner FAILURE No matching rooms found
+2024-01-11 23:12:47 4 0x00 request/category/list    
+2024-01-11 23:12:47 4 0x01 response/category/list SUCCESS  
+2024-01-11 23:12:57 4 Error: Cannot received data from client!
+2024-01-11 23:14:08 4 0x02 request/login    
+2024-01-11 23:14:08 4 0x03 response/login SUCCESS Login success!
+2024-01-11 23:14:09 4 0x00 request/category/list    
+2024-01-11 23:14:09 4 0x01 response/category/list SUCCESS  
+2024-01-11 23:14:14 4 Error: Cannot received data from client!
+2024-01-11 23:14:49 4 0x02 request/login    
+2024-01-11 23:14:49 4 0x03 response/login SUCCESS Login success!
+2024-01-11 23:14:49 4 0x00 request/category/list    
+2024-01-11 23:14:49 4 0x01 response/category/list SUCCESS  
+2024-01-11 23:14:49 4 0x00 request/room/list    
+2024-01-11 23:14:49 4 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-11 23:14:49 4 0x00 request/room/detail    
+2024-01-11 23:14:49 4 0x01 response/room/detail   Get room detail success
+2024-01-11 23:14:49 4 0x00 request/room/list/owner    
+2024-01-11 23:14:49 4 0x01 response/room/list/owner FAILURE No matching rooms found
+2024-01-11 23:14:50 4 0x00 request/category/list    
+2024-01-11 23:14:50 4 0x01 response/category/list SUCCESS  
+2024-01-11 23:14:54 4 0x00 request/category/list    
+2024-01-11 23:14:54 4 0x01 response/category/list SUCCESS  
+2024-01-11 23:15:13 4 0x02 request/room/create    
+2024-01-11 23:15:13 4 0x03 response/room/create SUCCESS  
+2024-01-11 23:15:13 4 0x00 request/room/list    
+2024-01-11 23:15:13 4 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-11 23:15:17 4 0x00 request/room/join    
+2024-01-11 23:15:17 4 0x01 response/room/join SUCCESS Join room successful!
+2024-01-11 23:15:17 4 0x00 request/room/detail    
+2024-01-11 23:15:17 4 0x01 response/room/detail   Get room detail success
+2024-01-11 23:15:29 5 0x02 request/login    
+2024-01-11 23:15:29 5 0x03 response/login SUCCESS Login success!
+2024-01-11 23:15:30 5 0x00 request/category/list    
+2024-01-11 23:15:30 5 0x01 response/category/list SUCCESS  
+2024-01-11 23:15:30 5 0x00 request/room/list    
+2024-01-11 23:15:30 5 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-11 23:15:30 5 0x00 request/room/detail    
+2024-01-11 23:15:30 5 0x01 response/room/detail   Get room detail success
+2024-01-11 23:15:30 5 0x00 request/room/list/owner    
+2024-01-11 23:15:30 5 0x01 response/room/list/owner FAILURE No matching rooms found
+2024-01-11 23:15:40 5 0x00 request/room/join    
+2024-01-11 23:15:40 5 0x01 response/room/join SUCCESS Join room successful!
+2024-01-11 23:15:40 5 0x00 request/room/detail    
+2024-01-11 23:15:40 5 0x01 response/room/detail   Get room detail success
+2024-01-11 23:15:41 5 0x00 request/room/ready    
+2024-01-11 23:15:41 5 0x01 response/room/ready SUCCESS 
+2024-01-11 23:15:41 4 0x01 response/room/ready SUCCESS 
+2024-01-11 23:15:43 4 0x02 request/room/start    
+2024-01-11 23:15:43 5 0x03 response/room/start SUCCESS  
+2024-01-11 23:15:43 4 0x03 response/room/start SUCCESS  
+2024-01-11 23:15:43 5 0x00 request/question/get/room    
+2024-01-11 23:15:43 5 0x01 response/question/get/room SUCCESS Get list question by room success.
+2024-01-11 23:15:52 5 0x02 request/answer/submit    
+2024-01-11 23:15:52 5 0x03 response/answer/submit SUCCESS Answer saved successfully
+2024-01-11 23:16:00 5 0x02 request/answer/submit    
+2024-01-11 23:16:00 5 0x03 response/answer/submit SUCCESS Answer saved successfully
+2024-01-11 23:16:11 5 0x02 request/answer/submit    
+2024-01-11 23:16:11 5 0x03 response/answer/submit SUCCESS Answer saved successfully
+2024-01-11 23:16:17 5 0x02 request/answer/submit    
+2024-01-11 23:16:17 5 0x03 response/answer/submit SUCCESS Answer saved successfully
+2024-01-11 23:16:17 5 0x02 request/answer/submit    
+2024-01-11 23:16:17 5 0x03 response/answer/submit SUCCESS Answer saved successfully
+2024-01-11 23:16:19 5 0x02 request/answer/submit    
+2024-01-11 23:16:19 5 0x03 response/answer/submit SUCCESS Answer saved successfully
+2024-01-11 23:16:27 5 0x02 request/answer/submit    
+2024-01-11 23:16:27 5 0x03 response/answer/submit SUCCESS Answer saved successfully
+2024-01-11 23:16:28 5 0x04 request/practice/end    
+2024-01-11 23:16:28 5 0x05 response/practice/end   
+2024-01-11 23:16:36 5 0x00 request/result/history    
+2024-01-11 23:16:36 5 0x01 response/result/history SUCCESS  
+2024-01-11 23:16:36 5 Error: Cannot received data from client!
+2024-01-11 23:16:41 4 0x00 request/result/history    
+2024-01-11 23:16:42 4 0x01 response/result/history SUCCESS  
+2024-01-11 23:17:15 4 Error: Cannot received data from client!
+2024-01-11 23:18:03 4 0x02 request/login    
+2024-01-11 23:18:03 4 0x03 response/login SUCCESS Login success!
+2024-01-11 23:18:03 4 0x00 request/category/list    
+2024-01-11 23:18:03 4 0x01 response/category/list SUCCESS  
+2024-01-11 23:18:03 4 0x00 request/room/list    
+2024-01-11 23:18:03 4 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-11 23:18:03 4 0x00 request/room/detail    
+2024-01-11 23:18:03 4 0x01 response/room/detail   Get room detail success
+2024-01-11 23:18:03 4 0x00 request/room/list/owner    
+2024-01-11 23:18:03 4 0x01 response/room/list/owner SUCCESS Get list rooms owner success
+2024-01-11 23:18:05 4 0x00 request/result/history    
+2024-01-11 23:18:05 4 0x01 response/result/history SUCCESS  
+2024-01-11 23:18:22 4 0x00 request/result/room    
+2024-01-11 23:18:22 4 0x01 response/result/room SUCCESS Get result in room exam success
+2024-01-11 23:18:27 4 0x00 request/result/history    
+2024-01-11 23:18:27 4 0x01 response/result/history SUCCESS  
+2024-01-11 23:18:36 4 Error: Cannot received data from client!
+2024-01-11 23:24:04 4 0x02 request/login    
+2024-01-11 23:24:04 4 0x03 response/login FAILURE Password incorrect.
+2024-01-11 23:24:08 4 0x02 request/login    
+2024-01-11 23:24:08 4 0x03 response/login SUCCESS Login success!
+2024-01-11 23:24:08 4 0x00 request/category/list    
+2024-01-11 23:24:08 4 0x01 response/category/list SUCCESS  
+2024-01-11 23:24:08 4 0x00 request/room/list    
+2024-01-11 23:24:08 4 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-11 23:24:08 4 0x00 request/room/detail    
+2024-01-11 23:24:08 4 0x01 response/room/detail   Get room detail success
+2024-01-11 23:24:08 4 0x00 request/room/list/owner    
+2024-01-11 23:24:08 4 0x01 response/room/list/owner FAILURE No matching rooms found
+2024-01-11 23:24:10 4 0x00 request/category/list    
+2024-01-11 23:24:10 4 0x01 response/category/list SUCCESS  
+2024-01-11 23:24:28 4 0x02 request/room/create    
+2024-01-11 23:24:28 4 0x03 response/room/create SUCCESS  
+2024-01-11 23:24:28 4 0x00 request/room/list    
+2024-01-11 23:24:28 4 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-11 23:24:32 4 0x00 request/room/join    
+2024-01-11 23:24:32 4 0x01 response/room/join SUCCESS Join room successful!
+2024-01-11 23:24:32 4 0x00 request/room/detail    
+2024-01-11 23:24:32 4 0x01 response/room/detail   Get room detail success
+2024-01-11 23:24:42 5 0x02 request/login    
+2024-01-11 23:24:42 5 0x03 response/login SUCCESS Login success!
+2024-01-11 23:24:42 5 0x00 request/category/list    
+2024-01-11 23:24:42 5 0x01 response/category/list SUCCESS  
+2024-01-11 23:24:42 5 0x00 request/room/list    
+2024-01-11 23:24:42 5 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-11 23:24:42 5 0x00 request/room/detail    
+2024-01-11 23:24:42 5 0x01 response/room/detail   Get room detail success
+2024-01-11 23:24:42 5 0x00 request/room/list/owner    
+2024-01-11 23:24:42 5 0x01 response/room/list/owner FAILURE No matching rooms found
+2024-01-11 23:24:46 5 0x00 request/room/join    
+2024-01-11 23:24:46 5 0x01 response/room/join SUCCESS Join room successful!
+2024-01-11 23:24:46 5 0x00 request/room/detail    
+2024-01-11 23:24:46 5 0x01 response/room/detail   Get room detail success
+2024-01-11 23:24:47 5 0x00 request/room/ready    
+2024-01-11 23:24:47 5 0x01 response/room/ready SUCCESS 
+2024-01-11 23:24:47 4 0x01 response/room/ready SUCCESS 
+2024-01-11 23:24:49 4 0x02 request/room/start    
+2024-01-11 23:24:49 5 0x03 response/room/start SUCCESS  
+2024-01-11 23:24:49 4 0x03 response/room/start SUCCESS  
+2024-01-11 23:24:49 5 0x00 request/question/get/room    
+2024-01-11 23:24:49 5 0x01 response/question/get/room SUCCESS Get list question by room success.
+2024-01-11 23:24:56 5 0x02 request/answer/submit    
+2024-01-11 23:24:56 5 0x03 response/answer/submit SUCCESS Answer saved successfully
+2024-01-11 23:24:59 5 0x02 request/answer/submit    
+2024-01-11 23:24:59 5 0x03 response/answer/submit SUCCESS Answer saved successfully
+2024-01-11 23:25:00 5 0x02 request/answer/submit    
+2024-01-11 23:25:00 5 0x03 response/answer/submit SUCCESS Answer saved successfully
+2024-01-11 23:25:02 5 0x02 request/answer/submit    
+2024-01-11 23:25:02 5 0x03 response/answer/submit SUCCESS Answer saved successfully
+2024-01-11 23:25:43 5 0x02 request/answer/submit    
+2024-01-11 23:25:43 5 0x03 response/answer/submit SUCCESS Answer saved successfully
+2024-01-11 23:25:46 5 0x04 request/practice/end    
+2024-01-11 23:25:46 5 0x05 response/practice/end   
+2024-01-11 23:25:51 5 0x00 request/result/history    
+2024-01-11 23:25:51 5 0x01 response/result/history SUCCESS  
+2024-01-11 23:26:06 4 0x00 request/result/history    
+2024-01-11 23:26:06 4 0x01 response/result/history SUCCESS  
+2024-01-11 23:26:08 4 0x00 request/result/history    
+2024-01-11 23:26:08 4 0x01 response/result/history SUCCESS  
+2024-01-11 23:26:11 4 0x00 request/result/history    
+2024-01-11 23:26:11 4 0x01 response/result/history SUCCESS  
+2024-01-11 23:27:10 5 0x00 request/result/history    
+2024-01-11 23:27:10 5 0x01 response/result/history SUCCESS  
+2024-01-11 23:27:23 4 0x00 request/result/history    
+2024-01-11 23:27:23 4 0x01 response/result/history SUCCESS  
+2024-01-11 23:27:24 4 0x00 request/result/history    
+2024-01-11 23:27:24 4 0x01 response/result/history SUCCESS  
+2024-01-11 23:27:25 4 0x00 request/result/history    
+2024-01-11 23:27:25 4 0x01 response/result/history SUCCESS  
+2024-01-11 23:27:30 4 0x00 request/result/history    
+2024-01-11 23:27:30 4 0x01 response/result/history SUCCESS  
+2024-01-11 23:27:32 4 Error: Cannot received data from client!
+2024-01-11 23:27:36 5 Error: Cannot received data from client!
+2024-01-11 23:30:52 6 0x02 request/login    
+2024-01-11 23:30:52 6 0x03 response/login FAILURE Account is logged in another location.
+2024-01-11 23:32:00 4 0x02 request/login    
+2024-01-11 23:32:00 4 0x03 response/login SUCCESS Login success!
+2024-01-11 23:32:00 4 0x00 request/category/list    
+2024-01-11 23:32:00 4 0x01 response/category/list SUCCESS  
+2024-01-11 23:32:00 4 0x00 request/room/list    
+2024-01-11 23:32:00 4 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-11 23:32:00 4 0x00 request/room/detail    
+2024-01-11 23:32:00 4 0x01 response/room/detail   Get room detail success
+2024-01-11 23:32:00 4 0x00 request/room/list/owner    
+2024-01-11 23:32:00 4 0x01 response/room/list/owner SUCCESS Get list rooms owner success
+2024-01-11 23:32:01 4 0x00 request/result/room    
+2024-01-11 23:32:01 4 0x01 response/result/room SUCCESS Get result in room exam success
+2024-01-11 23:32:18 4 Error: Cannot received data from client!
+2024-01-11 23:37:38 4 0x02 request/login    
+2024-01-11 23:37:38 4 0x03 response/login SUCCESS Login success!
+2024-01-11 23:37:38 4 0x00 request/category/list    
+2024-01-11 23:37:38 4 0x01 response/category/list SUCCESS  
+2024-01-11 23:37:38 4 0x00 request/room/list    
+2024-01-11 23:37:38 4 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-11 23:37:38 4 0x00 request/room/detail    
+2024-01-11 23:37:38 4 0x01 response/room/detail   Get room detail success
+2024-01-11 23:37:38 4 0x00 request/room/list/owner    
+2024-01-11 23:37:38 4 0x01 response/room/list/owner SUCCESS Get list rooms owner success
+2024-01-11 23:37:40 4 0x00 request/category/list    
+2024-01-11 23:37:40 4 0x01 response/category/list SUCCESS  
+2024-01-11 23:38:01 4 0x02 request/room/create    
+2024-01-11 23:38:01 4 0x03 response/room/create SUCCESS  
+2024-01-11 23:38:01 4 0x00 request/room/list    
+2024-01-11 23:38:01 4 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-11 23:38:07 4 0x00 request/room/join    
+2024-01-11 23:38:07 4 0x01 response/room/join SUCCESS Join room successful!
+2024-01-11 23:38:07 4 0x00 request/room/detail    
+2024-01-11 23:38:07 4 0x01 response/room/detail   Get room detail success
+2024-01-11 23:38:20 5 0x02 request/login    
+2024-01-11 23:38:20 5 0x03 response/login SUCCESS Login success!
+2024-01-11 23:38:20 5 0x00 request/category/list    
+2024-01-11 23:38:20 5 0x01 response/category/list SUCCESS  
+2024-01-11 23:38:20 5 0x00 request/room/list    
+2024-01-11 23:38:20 5 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-11 23:38:20 5 0x00 request/room/detail    
+2024-01-11 23:38:20 5 0x01 response/room/detail   Get room detail success
+2024-01-11 23:38:20 5 0x00 request/room/list/owner    
+2024-01-11 23:38:20 5 0x01 response/room/list/owner FAILURE No matching rooms found
+2024-01-11 23:38:24 5 0x00 request/room/join    
+2024-01-11 23:38:24 5 0x01 response/room/join SUCCESS Join room successful!
+2024-01-11 23:38:24 5 0x00 request/room/detail    
+2024-01-11 23:38:24 5 0x01 response/room/detail   Get room detail success
+2024-01-11 23:38:28 5 0x00 request/room/ready    
+2024-01-11 23:38:28 5 0x01 response/room/ready SUCCESS 
+2024-01-11 23:38:28 4 0x01 response/room/ready SUCCESS 
+2024-01-11 23:38:32 4 0x02 request/room/start    
+2024-01-11 23:38:32 5 0x03 response/room/start SUCCESS  
+2024-01-11 23:38:32 4 0x03 response/room/start SUCCESS  
+2024-01-11 23:38:32 5 0x00 request/question/get/room    
+2024-01-11 23:38:32 5 0x01 response/question/get/room SUCCESS Get list question by room success.
+2024-01-11 23:38:41 5 0x02 request/answer/submit    
+2024-01-11 23:38:41 5 0x03 response/answer/submit SUCCESS Answer saved successfully
+2024-01-11 23:38:43 5 0x02 request/answer/submit    
+2024-01-11 23:38:43 5 0x03 response/answer/submit SUCCESS Answer saved successfully
+2024-01-11 23:38:45 5 0x02 request/answer/submit    
+2024-01-11 23:38:45 5 0x03 response/answer/submit SUCCESS Answer saved successfully
+2024-01-11 23:38:46 5 0x02 request/answer/submit    
+2024-01-11 23:38:46 5 0x03 response/answer/submit SUCCESS Answer saved successfully
+2024-01-11 23:38:48 5 0x02 request/answer/submit    
+2024-01-11 23:38:48 5 0x03 response/answer/submit SUCCESS Answer saved successfully
+2024-01-11 23:38:50 5 0x04 request/practice/end    
+2024-01-11 23:38:50 5 0x05 response/practice/end   
+2024-01-11 23:39:21 4 0x00 request/result/room    
+2024-01-11 23:39:21 4 0x01 response/result/room SUCCESS Get result in room exam success
+2024-01-11 23:39:24 4 0x00 request/result/history    
+2024-01-11 23:39:24 4 0x01 response/result/history SUCCESS  
+2024-01-11 23:39:25 4 0x00 request/result/room    
+2024-01-11 23:39:25 4 0x01 response/result/room SUCCESS Get result in room exam success
+2024-01-11 23:39:31 4 Error: Cannot received data from client!
+2024-01-11 23:39:35 5 Error: Cannot received data from client!
+2024-01-11 23:47:18 4 0x02 request/login    
+2024-01-11 23:47:18 4 0x03 response/login FAILURE Account not exists.
+2024-01-11 23:47:24 4 0x02 request/login    
+2024-01-11 23:47:24 4 0x03 response/login FAILURE Account has been locked.
+2024-01-11 23:47:28 4 0x02 request/login    
+2024-01-11 23:47:28 4 0x03 response/login SUCCESS Login success!
+2024-01-11 23:47:28 4 0x00 request/category/list    
+2024-01-11 23:47:28 4 0x01 response/category/list SUCCESS  
+2024-01-11 23:47:28 4 0x00 request/room/list    
+2024-01-11 23:47:28 4 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-11 23:47:28 4 0x00 request/room/detail    
+2024-01-11 23:47:28 4 0x01 response/room/detail   Get room detail success
+2024-01-11 23:47:28 4 0x00 request/room/list/owner    
+2024-01-11 23:47:28 4 0x01 response/room/list/owner FAILURE No matching rooms found
+2024-01-11 23:47:30 4 0x06 request/logout    
+2024-01-11 23:47:30 4 0x07 response/logout SUCCESS  
+2024-01-11 23:48:08 5 Error: Cannot received data from client!
+2024-01-11 23:48:21 4 Error: Cannot received data from client!
+2024-01-11 23:51:21 4 0x02 request/login    
+2024-01-11 23:51:21 4 0x03 response/login FAILURE Account has been locked.
+2024-01-11 23:51:25 4 0x02 request/login    
+2024-01-11 23:51:25 4 0x03 response/login SUCCESS Login success!
+2024-01-11 23:51:25 4 0x00 request/category/list    
+2024-01-11 23:51:25 4 0x01 response/category/list SUCCESS  
+2024-01-11 23:51:25 4 0x00 request/room/list    
+2024-01-11 23:51:25 4 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-11 23:51:25 4 0x00 request/room/detail    
+2024-01-11 23:51:25 4 0x01 response/room/detail   Get room detail success
+2024-01-11 23:51:25 4 0x00 request/room/list/owner    
+2024-01-11 23:51:25 4 0x01 response/room/list/owner FAILURE No matching rooms found
+2024-01-11 23:51:26 4 0x06 request/logout    
+2024-01-11 23:51:26 4 0x07 response/logout SUCCESS  
+2024-01-11 23:52:39 4 Error: Cannot received data from client!
+2024-01-11 23:52:59 4 0x02 request/login    
+2024-01-11 23:52:59 4 0x03 response/login SUCCESS Login success!
+2024-01-11 23:52:59 4 0x00 request/category/list    
+2024-01-11 23:52:59 4 0x01 response/category/list SUCCESS  
+2024-01-11 23:52:59 4 0x00 request/room/list    
+2024-01-11 23:52:59 4 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-11 23:52:59 4 0x00 request/room/detail    
+2024-01-11 23:52:59 4 0x01 response/room/detail   Get room detail success
+2024-01-11 23:52:59 4 0x00 request/room/list/owner    
+2024-01-11 23:52:59 4 0x01 response/room/list/owner FAILURE No matching rooms found
+2024-01-11 23:53:02 4 0x06 request/logout    
+2024-01-11 23:53:02 4 0x07 response/logout SUCCESS  
+2024-01-11 23:53:06 4 Error: Cannot received data from client!
+2024-01-12 01:52:40 4 0x02 request/login    
+2024-01-12 01:52:40 4 0x03 response/login SUCCESS Login success!
+2024-01-12 01:52:40 4 0x00 request/category/list    
+2024-01-12 01:52:40 4 0x01 response/category/list SUCCESS  
+2024-01-12 01:52:40 4 0x00 request/room/list    
+2024-01-12 01:52:40 4 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-12 01:52:40 4 0x00 request/room/detail    
+2024-01-12 01:52:40 4 0x01 response/room/detail   Get room detail success
+2024-01-12 01:52:40 4 0x00 request/room/list/owner    
+2024-01-12 01:52:40 4 0x01 response/room/list/owner SUCCESS Get list rooms owner success
+2024-01-12 01:52:42 4 0x00 request/category/list    
+2024-01-12 01:52:42 4 0x01 response/category/list SUCCESS  
+2024-01-12 01:53:17 4 0x02 request/room/create    
+2024-01-12 01:53:17 4 0x03 response/room/create SUCCESS  
+2024-01-12 01:53:17 4 0x00 request/room/list    
+2024-01-12 01:53:17 4 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-12 01:53:21 4 0x00 request/room/join    
+2024-01-12 01:53:21 4 0x01 response/room/join SUCCESS Join room successful!
+2024-01-12 01:53:21 4 0x00 request/room/detail    
+2024-01-12 01:53:21 4 0x01 response/room/detail   Get room detail success
+2024-01-12 01:53:38 5 0x02 request/login    
+2024-01-12 01:53:38 5 0x03 response/login SUCCESS Login success!
+2024-01-12 01:53:38 5 0x00 request/category/list    
+2024-01-12 01:53:38 5 0x01 response/category/list SUCCESS  
+2024-01-12 01:53:38 5 0x00 request/room/list    
+2024-01-12 01:53:38 5 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-12 01:53:38 5 0x00 request/room/detail    
+2024-01-12 01:53:38 5 0x01 response/room/detail   Get room detail success
+2024-01-12 01:53:38 5 0x00 request/room/list/owner    
+2024-01-12 01:53:38 5 0x01 response/room/list/owner FAILURE No matching rooms found
+2024-01-12 01:53:49 5 0x00 request/room/join    
+2024-01-12 01:53:49 5 0x01 response/room/join SUCCESS Join room successful!
+2024-01-12 01:53:49 5 0x00 request/room/detail    
+2024-01-12 01:53:49 5 0x01 response/room/detail   Get room detail success
+2024-01-12 01:53:50 5 0x00 request/room/ready    
+2024-01-12 01:53:50 5 0x01 response/room/ready SUCCESS 
+2024-01-12 01:53:50 4 0x01 response/room/ready SUCCESS 
+2024-01-12 01:55:01 5 Error: Cannot received data from client!
+2024-01-12 01:59:06 4 Error: Cannot received data from client!
+2024-01-12 02:49:50 4 0x02 request/login    
+2024-01-12 02:49:50 4 0x03 response/login SUCCESS Login success!
+2024-01-12 02:49:50 4 0x00 request/category/list    
+2024-01-12 02:49:50 4 0x01 response/category/list SUCCESS  
+2024-01-12 02:49:50 4 0x00 request/room/list    
+2024-01-12 02:49:50 4 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-12 02:49:50 4 0x00 request/room/detail    
+2024-01-12 02:49:50 4 0x01 response/room/detail   Get room detail success
+2024-01-12 02:49:50 4 0x00 request/room/list/owner    
+2024-01-12 02:49:50 4 0x01 response/room/list/owner SUCCESS Get list rooms owner success
+2024-01-12 02:50:16 5 0x02 request/registration    
+2024-01-12 02:50:16 5 0x03 response/registration SUCCESS  
+2024-01-12 02:50:26 5 0x02 request/login    
+2024-01-12 02:50:26 5 0x03 response/login SUCCESS Login success!
+2024-01-12 02:50:26 5 0x00 request/category/list    
+2024-01-12 02:50:26 5 0x01 response/category/list SUCCESS  
+2024-01-12 02:50:26 5 0x00 request/room/list    
+2024-01-12 02:50:26 5 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-12 02:50:26 5 0x00 request/room/detail    
+2024-01-12 02:50:26 5 0x01 response/room/detail   Get room detail success
+2024-01-12 02:50:26 5 0x00 request/room/list/owner    
+2024-01-12 02:50:26 5 0x01 response/room/list/owner FAILURE No matching rooms found
+2024-01-12 02:50:32 4 0x00 request/category/list    
+2024-01-12 02:50:32 4 0x01 response/category/list SUCCESS  
+2024-01-12 02:50:50 4 0x02 request/room/create    
+2024-01-12 02:50:50 4 0x03 response/room/create SUCCESS  
+2024-01-12 02:50:50 4 0x00 request/room/list    
+2024-01-12 02:50:50 4 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-12 02:50:54 4 0x00 request/room/join    
+2024-01-12 02:50:54 4 0x01 response/room/join SUCCESS Join room successful!
+2024-01-12 02:50:54 4 0x00 request/room/detail    
+2024-01-12 02:50:54 4 0x01 response/room/detail   Get room detail success
+2024-01-12 02:51:04 6 0x02 request/login    
+2024-01-12 02:51:04 6 0x03 response/login SUCCESS Login success!
+2024-01-12 02:51:04 6 0x00 request/category/list    
+2024-01-12 02:51:04 6 0x01 response/category/list SUCCESS  
+2024-01-12 02:51:04 6 0x00 request/room/list    
+2024-01-12 02:51:04 6 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-12 02:51:04 6 0x00 request/room/detail    
+2024-01-12 02:51:04 6 0x01 response/room/detail   Get room detail success
+2024-01-12 02:51:04 6 0x00 request/room/list/owner    
+2024-01-12 02:51:04 6 0x01 response/room/list/owner FAILURE No matching rooms found
+2024-01-12 02:51:48 5 Error: Cannot received data from client!
+2024-01-12 02:52:02 7 0x02 request/login    
+2024-01-12 02:52:02 7 0x03 response/login FAILURE Account is logged in another location.
+2024-01-12 02:52:07 7 Error: Cannot received data from client!
+2024-01-12 02:52:10 6 Error: Cannot received data from client!
+2024-01-12 02:52:12 4 Error: Cannot received data from client!
+2024-01-12 02:53:54 4 0x02 request/registration    
+2024-01-12 02:53:54 4 0x03 response/registration SUCCESS  
+2024-01-12 02:53:57 4 0x02 request/login    
+2024-01-12 02:53:57 4 0x03 response/login SUCCESS Login success!
+2024-01-12 02:53:57 4 0x00 request/category/list    
+2024-01-12 02:53:57 4 0x01 response/category/list SUCCESS  
+2024-01-12 02:53:57 4 0x00 request/room/list    
+2024-01-12 02:53:57 4 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-12 02:53:57 4 0x00 request/room/detail    
+2024-01-12 02:53:57 4 0x01 response/room/detail   Get room detail success
+2024-01-12 02:53:57 4 0x00 request/room/list/owner    
+2024-01-12 02:53:57 4 0x01 response/room/list/owner FAILURE No matching rooms found
+2024-01-12 02:54:10 5 0x02 request/login    
+2024-01-12 02:54:10 5 0x03 response/login SUCCESS Login success!
+2024-01-12 02:54:11 5 0x00 request/category/list    
+2024-01-12 02:54:11 5 0x01 response/category/list SUCCESS  
+2024-01-12 02:54:11 5 0x00 request/room/list    
+2024-01-12 02:54:11 5 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-12 02:54:11 5 0x00 request/room/detail    
+2024-01-12 02:54:11 5 0x01 response/room/detail   Get room detail success
+2024-01-12 02:54:11 5 0x00 request/room/list/owner    
+2024-01-12 02:54:11 5 0x01 response/room/list/owner SUCCESS Get list rooms owner success
+2024-01-12 02:54:22 5 0x00 request/category/list    
+2024-01-12 02:54:22 5 0x01 response/category/list SUCCESS  
+2024-01-12 02:54:37 5 0x02 request/room/create    
+2024-01-12 02:54:37 5 0x03 response/room/create SUCCESS  
+2024-01-12 02:54:37 5 0x00 request/room/list    
+2024-01-12 02:54:37 5 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-12 02:54:42 5 0x00 request/room/join    
+2024-01-12 02:54:42 5 0x01 response/room/join SUCCESS Join room successful!
+2024-01-12 02:54:42 5 0x00 request/room/detail    
+2024-01-12 02:54:42 5 0x01 response/room/detail   Get room detail success
+2024-01-12 02:54:48 4 0x00 request/room/join    
+2024-01-12 02:54:48 4 0x01 response/room/join SUCCESS Join room successful!
+2024-01-12 02:54:48 4 0x00 request/room/detail    
+2024-01-12 02:54:48 4 0x01 response/room/detail   Get room detail success
+2024-01-12 02:55:03 6 0x02 request/login    
+2024-01-12 02:55:03 6 0x03 response/login SUCCESS Login success!
+2024-01-12 02:55:03 6 0x00 request/category/list    
+2024-01-12 02:55:03 6 0x01 response/category/list SUCCESS  
+2024-01-12 02:55:03 6 0x00 request/room/list    
+2024-01-12 02:55:03 6 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-12 02:55:03 6 0x00 request/room/detail    
+2024-01-12 02:55:03 6 0x01 response/room/detail   Get room detail success
+2024-01-12 02:55:03 6 0x00 request/room/list/owner    
+2024-01-12 02:55:03 6 0x01 response/room/list/owner FAILURE No matching rooms found
+2024-01-12 02:55:13 4 0x00 request/room/ready    
+2024-01-12 02:55:13 4 0x01 response/room/ready SUCCESS 
+2024-01-12 02:55:13 5 0x01 response/room/ready SUCCESS 
+2024-01-12 02:55:19 6 0x00 request/room/join    
+2024-01-12 02:55:19 6 0x01 response/room/join SUCCESS Join room successful!
+2024-01-12 02:55:19 6 0x00 request/room/detail    
+2024-01-12 02:55:19 6 0x01 response/room/detail   Get room detail success
+2024-01-12 02:55:21 6 0x00 request/room/ready    
+2024-01-12 02:55:21 6 0x01 response/room/ready SUCCESS 
+2024-01-12 02:55:21 5 0x01 response/room/ready SUCCESS 
+2024-01-12 02:55:30 5 0x02 request/room/start    
+2024-01-12 02:55:30 6 0x03 response/room/start SUCCESS  
+2024-01-12 02:55:30 5 0x03 response/room/start SUCCESS  
+2024-01-12 02:55:30 6 0x00 request/question/get/room    
+2024-01-12 02:55:30 6 0x01 response/question/get/room SUCCESS Get list question by room success.
+2024-01-12 02:55:48 6 Error: Cannot received data from client!
+2024-01-12 02:55:49 5 Error: Cannot received data from client!
+2024-01-12 02:55:51 4 Error: Cannot received data from client!
+2024-01-12 10:30:28 4 Error: Cannot received data from client!
+2024-01-12 10:37:38 4 0x02 request/login    
+2024-01-12 10:37:38 4 0x03 response/login SUCCESS Login success!
+2024-01-12 10:37:38 4 0x00 request/category/list    
+2024-01-12 10:37:38 4 0x01 response/category/list SUCCESS  
+2024-01-12 10:37:38 4 0x00 request/room/list    
+2024-01-12 10:37:38 4 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-12 10:37:38 4 0x00 request/room/detail    
+2024-01-12 10:37:38 4 0x01 response/room/detail   Get room detail success
+2024-01-12 10:37:38 4 0x00 request/room/list/owner    
+2024-01-12 10:37:38 4 0x01 response/room/list/owner SUCCESS Get list rooms owner success
+2024-01-12 10:38:26 5 0x02 request/login    
+2024-01-12 10:38:26 5 0x03 response/login SUCCESS Login success!
+2024-01-12 10:38:26 5 0x00 request/category/list    
+2024-01-12 10:38:26 5 0x01 response/category/list SUCCESS  
+2024-01-12 10:38:26 5 0x00 request/room/list    
+2024-01-12 10:38:26 5 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-12 10:38:26 5 0x00 request/room/detail    
+2024-01-12 10:38:26 5 0x01 response/room/detail   Get room detail success
+2024-01-12 10:38:26 5 0x00 request/room/list/owner    
+2024-01-12 10:38:26 5 0x01 response/room/list/owner SUCCESS Get list rooms owner success
+2024-01-12 10:38:33 5 0x00 request/room/join    
+2024-01-12 10:38:33 5 0x01 response/room/join SUCCESS Join room successful!
+2024-01-12 10:38:33 5 0x00 request/room/detail    
+2024-01-12 10:38:33 5 0x01 response/room/detail   Get room detail success
+2024-01-12 10:38:53 4 0x00 request/room/join    
+2024-01-12 10:38:53 4 0x01 response/room/join SUCCESS Join room successful!
+2024-01-12 10:38:53 4 0x00 request/room/detail    
+2024-01-12 10:38:53 4 0x01 response/room/detail   Get room detail success
+2024-01-12 10:39:12 6 0x02 request/login    
+2024-01-12 10:39:12 6 0x03 response/login SUCCESS Login success!
+2024-01-12 10:39:13 6 0x00 request/category/list    
+2024-01-12 10:39:13 6 0x01 response/category/list SUCCESS  
+2024-01-12 10:39:13 6 0x00 request/room/list    
+2024-01-12 10:39:13 6 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-12 10:39:13 6 0x00 request/room/detail    
+2024-01-12 10:39:13 6 0x01 response/room/detail   Get room detail success
+2024-01-12 10:39:13 6 0x00 request/room/list/owner    
+2024-01-12 10:39:13 6 0x01 response/room/list/owner FAILURE No matching rooms found
+2024-01-12 10:39:17 6 0x00 request/room/join    
+2024-01-12 10:39:17 6 0x01 response/room/join SUCCESS Join room successful!
+2024-01-12 10:39:17 6 0x00 request/room/detail    
+2024-01-12 10:39:17 6 0x01 response/room/detail   Get room detail success
+2024-01-12 10:39:19 6 0x00 request/room/ready    
+2024-01-12 10:39:19 6 0x01 response/room/ready SUCCESS 
+2024-01-12 10:39:19 4 0x01 response/room/ready SUCCESS 
+2024-01-12 10:39:21 5 0x00 request/room/ready    
+2024-01-12 10:39:21 6 0x01 response/room/ready SUCCESS 
+2024-01-12 10:39:21 5 0x01 response/room/ready SUCCESS 
+2024-01-12 10:39:21 4 0x01 response/room/ready SUCCESS 
+2024-01-12 10:39:28 4 0x02 request/room/start    
+2024-01-12 10:39:28 6 0x03 response/room/start SUCCESS  
+2024-01-12 10:39:28 5 0x03 response/room/start SUCCESS  
+2024-01-12 10:39:28 6 0x00 request/question/get/room    
+2024-01-12 10:39:28 5 0x00 request/question/get/room    
+2024-01-12 10:39:28 4 0x03 response/room/start SUCCESS  
+2024-01-12 10:39:28 5 0x01 response/question/get/room SUCCESS Get list question by room success.
+2024-01-12 10:39:28 6 0x01 response/question/get/room SUCCESS Get list question by room success.
+2024-01-12 10:39:32 6 Error: Cannot received data from client!
+2024-01-12 10:39:33 5 Error: Cannot received data from client!
+2024-01-12 10:39:35 4 Error: Cannot received data from client!
+2024-01-12 11:11:42 4 0x02 request/login    
+2024-01-12 11:11:42 4 0x03 response/login SUCCESS Login success!
+2024-01-12 11:11:42 4 0x00 request/category/list    
+2024-01-12 11:11:42 4 0x01 response/category/list SUCCESS  
+2024-01-12 11:11:42 4 0x00 request/user/list    
+2024-01-12 11:11:42 4 0x01 response/user/list SUCCESS Get list users success
+2024-01-12 11:11:57 4 Error: Cannot received data from client!
+2024-01-12 12:11:19 4 0x02 request/registration    
+2024-01-12 12:11:19 4 0x03 response/registration SUCCESS  
+2024-01-12 12:11:23 4 0x02 request/login    
+2024-01-12 12:11:23 4 0x03 response/login SUCCESS Login success!
+2024-01-12 12:11:23 4 0x00 request/category/list    
+2024-01-12 12:11:23 4 0x01 response/category/list SUCCESS  
+2024-01-12 12:11:23 4 0x00 request/room/list    
+2024-01-12 12:11:23 4 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-12 12:11:23 4 0x00 request/room/detail    
+2024-01-12 12:11:23 4 0x01 response/room/detail   Get room detail success
+2024-01-12 12:11:23 4 0x00 request/room/list/owner    
+2024-01-12 12:11:23 4 0x01 response/room/list/owner FAILURE No matching rooms found
+2024-01-12 12:11:32 5 0x02 request/login    
+2024-01-12 12:11:32 5 0x03 response/login SUCCESS Login success!
+2024-01-12 12:11:32 5 0x00 request/category/list    
+2024-01-12 12:11:32 5 0x01 response/category/list SUCCESS  
+2024-01-12 12:11:32 5 0x00 request/room/list    
+2024-01-12 12:11:32 5 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-12 12:11:32 5 0x00 request/room/detail    
+2024-01-12 12:11:32 5 0x01 response/room/detail   Get room detail success
+2024-01-12 12:11:32 5 0x00 request/room/list/owner    
+2024-01-12 12:11:32 5 0x01 response/room/list/owner SUCCESS Get list rooms owner success
+2024-01-12 12:11:33 5 0x00 request/category/list    
+2024-01-12 12:11:33 5 0x01 response/category/list SUCCESS  
+2024-01-12 12:11:58 5 0x02 request/room/create    
+2024-01-12 12:11:58 5 0x03 response/room/create SUCCESS  
+2024-01-12 12:11:59 5 0x00 request/room/list    
+2024-01-12 12:11:59 5 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-12 12:12:22 4 Error: Cannot received data from client!
+2024-01-12 12:12:23 5 Error: Cannot received data from client!
+2024-01-12 12:18:48 4 0x02 request/login    
+2024-01-12 12:18:48 4 0x03 response/login SUCCESS Login success!
+2024-01-12 12:18:48 4 0x00 request/category/list    
+2024-01-12 12:18:48 4 0x01 response/category/list SUCCESS  
+2024-01-12 12:18:48 4 0x00 request/room/list    
+2024-01-12 12:18:48 4 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-12 12:18:48 4 0x00 request/room/detail    
+2024-01-12 12:18:48 4 0x01 response/room/detail   Get room detail success
+2024-01-12 12:18:48 4 0x00 request/room/list/owner    
+2024-01-12 12:18:48 4 0x01 response/room/list/owner SUCCESS Get list rooms owner success
+2024-01-12 12:18:49 4 0x00 request/category/list    
+2024-01-12 12:18:49 4 0x01 response/category/list SUCCESS  
+2024-01-12 12:19:11 4 0x02 request/room/create    
+2024-01-12 12:19:11 4 0x03 response/room/create SUCCESS  
+2024-01-12 12:19:11 4 0x00 request/room/list    
+2024-01-12 12:19:11 4 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-12 12:19:22 5 0x02 request/login    
+2024-01-12 12:19:22 5 0x03 response/login SUCCESS Login success!
+2024-01-12 12:19:22 5 0x00 request/category/list    
+2024-01-12 12:19:22 5 0x01 response/category/list SUCCESS  
+2024-01-12 12:19:22 5 0x00 request/room/list    
+2024-01-12 12:19:22 5 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-12 12:19:22 5 0x00 request/room/detail    
+2024-01-12 12:19:22 5 0x01 response/room/detail   Get room detail success
+2024-01-12 12:19:22 5 0x00 request/room/list/owner    
+2024-01-12 12:19:22 5 0x01 response/room/list/owner SUCCESS Get list rooms owner success
+2024-01-12 12:19:32 4 0x00 request/room/join    
+2024-01-12 12:19:32 4 0x01 response/room/join SUCCESS Join room successful!
+2024-01-12 12:19:32 4 0x00 request/room/detail    
+2024-01-12 12:19:32 4 0x01 response/room/detail   Get room detail success
+2024-01-12 12:19:38 5 0x00 request/room/join    
+2024-01-12 12:19:38 5 0x01 response/room/join SUCCESS Join room successful!
+2024-01-12 12:19:38 5 0x00 request/room/detail    
+2024-01-12 12:19:38 5 0x01 response/room/detail   Get room detail success
+2024-01-12 12:20:01 6 0x02 request/login    
+2024-01-12 12:20:01 6 0x03 response/login FAILURE Account is logged in another location.
+2024-01-12 12:20:06 6 0x02 request/login    
+2024-01-12 12:20:06 6 0x03 response/login SUCCESS Login success!
+2024-01-12 12:20:06 6 0x00 request/category/list    
+2024-01-12 12:20:06 6 0x01 response/category/list SUCCESS  
+2024-01-12 12:20:06 6 0x00 request/room/list    
+2024-01-12 12:20:06 6 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-12 12:20:06 6 0x00 request/room/detail    
+2024-01-12 12:20:06 6 0x01 response/room/detail   Get room detail success
+2024-01-12 12:20:06 6 0x00 request/room/list/owner    
+2024-01-12 12:20:06 6 0x01 response/room/list/owner FAILURE No matching rooms found
+2024-01-12 12:20:10 6 0x00 request/room/join    
+2024-01-12 12:20:10 6 0x01 response/room/join SUCCESS Join room successful!
+2024-01-12 12:20:10 6 0x00 request/room/detail    
+2024-01-12 12:20:10 6 0x01 response/room/detail   Get room detail success
+2024-01-12 12:20:31 6 0x00 request/room/ready    
+2024-01-12 12:20:31 6 0x01 response/room/ready SUCCESS 
+2024-01-12 12:20:31 4 0x01 response/room/ready SUCCESS 
+2024-01-12 12:20:33 5 0x00 request/room/ready    
+2024-01-12 12:20:33 6 0x01 response/room/ready SUCCESS 
+2024-01-12 12:20:33 5 0x01 response/room/ready SUCCESS 
+2024-01-12 12:20:33 4 0x01 response/room/ready SUCCESS 
+2024-01-12 12:20:52 4 0x02 request/room/start    
+2024-01-12 12:20:52 6 0x03 response/room/start SUCCESS  
+2024-01-12 12:20:52 5 0x03 response/room/start SUCCESS  
+2024-01-12 12:20:52 6 0x00 request/question/get/room    
+2024-01-12 12:20:52 4 0x03 response/room/start SUCCESS  
+2024-01-12 12:20:52 5 0x00 request/question/get/room    
+2024-01-12 12:20:52 6 0x01 response/question/get/room SUCCESS Get list question by room success.
+2024-01-12 12:20:52 5 0x01 response/question/get/room SUCCESS Get list question by room success.
+2024-01-12 12:20:58 6 0x02 request/answer/submit    
+2024-01-12 12:20:58 6 0x03 response/answer/submit SUCCESS Answer saved successfully
+2024-01-12 12:21:00 6 0x02 request/answer/submit    
+2024-01-12 12:21:00 6 0x03 response/answer/submit SUCCESS Answer saved successfully
+2024-01-12 12:21:02 6 0x02 request/answer/submit    
+2024-01-12 12:21:02 6 0x03 response/answer/submit SUCCESS Answer saved successfully
+2024-01-12 12:21:04 6 0x04 request/practice/end    
+2024-01-12 12:21:04 6 0x05 response/practice/end   
+2024-01-12 12:21:06 5 0x02 request/answer/submit    
+2024-01-12 12:21:06 5 0x03 response/answer/submit SUCCESS Answer saved successfully
+2024-01-12 12:21:08 5 0x02 request/answer/submit    
+2024-01-12 12:21:08 5 0x03 response/answer/submit SUCCESS Answer saved successfully
+2024-01-12 12:21:11 5 0x02 request/answer/submit    
+2024-01-12 12:21:11 5 0x03 response/answer/submit SUCCESS Answer saved successfully
+2024-01-12 12:21:12 5 0x02 request/answer/submit    
+2024-01-12 12:21:12 5 0x03 response/answer/submit SUCCESS Answer saved successfully
+2024-01-12 12:21:14 5 0x02 request/answer/submit    
+2024-01-12 12:21:14 5 0x03 response/answer/submit SUCCESS Answer saved successfully
+2024-01-12 12:21:15 5 0x04 request/practice/end    
+2024-01-12 12:21:15 5 0x05 response/practice/end   
+2024-01-12 12:21:45 4 0x00 request/result/history    
+2024-01-12 12:21:45 4 0x01 response/result/history SUCCESS  
+2024-01-12 12:21:46 4 0x00 request/result/room    
+2024-01-12 12:21:46 4 0x01 response/result/room SUCCESS Get result in room exam success
+2024-01-12 12:21:55 5 0x00 request/result/history    
+2024-01-12 12:21:55 5 0x01 response/result/history SUCCESS  
+2024-01-12 12:21:59 6 0x00 request/result/history    
+2024-01-12 12:21:59 6 0x01 response/result/history SUCCESS  
+2024-01-12 12:22:03 4 0x00 request/result/history    
+2024-01-12 12:22:03 4 0x01 response/result/history SUCCESS  
+2024-01-12 12:22:03 4 0x00 request/result/room    
+2024-01-12 12:22:03 4 0x01 response/result/room SUCCESS Get result in room exam success
+2024-01-12 12:22:04 4 0x00 request/result/history    
+2024-01-12 12:22:04 4 0x01 response/result/history SUCCESS  
+2024-01-12 12:22:05 4 0x00 request/result/room    
+2024-01-12 12:22:05 4 0x01 response/result/room SUCCESS Get result in room exam success
+2024-01-12 12:22:20 6 Error: Cannot received data from client!
+2024-01-12 12:22:22 5 Error: Cannot received data from client!
+2024-01-12 12:22:24 4 Error: Cannot received data from client!
+2024-01-12 12:24:22 4 0x02 request/login    
+2024-01-12 12:24:22 4 0x03 response/login SUCCESS Login success!
+2024-01-12 12:24:22 4 0x00 request/category/list    
+2024-01-12 12:24:22 4 0x01 response/category/list SUCCESS  
+2024-01-12 12:24:22 4 0x00 request/room/list    
+2024-01-12 12:24:22 4 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-12 12:24:22 4 0x00 request/room/detail    
+2024-01-12 12:24:22 4 0x01 response/room/detail   Get room detail success
+2024-01-12 12:24:22 4 0x00 request/room/list/owner    
+2024-01-12 12:24:22 4 0x01 response/room/list/owner SUCCESS Get list rooms owner success
+2024-01-12 12:24:23 4 0x00 request/result/history    
+2024-01-12 12:24:23 4 0x01 response/result/history SUCCESS  
+2024-01-12 12:24:24 4 0x00 request/result/room    
+2024-01-12 12:24:24 4 0x01 response/result/room SUCCESS Get result in room exam success
+2024-01-12 12:27:31 4 Error: Cannot received data from client!
+2024-01-12 12:28:21 4 0x02 request/login    
+2024-01-12 12:28:21 4 0x03 response/login SUCCESS Login success!
+2024-01-12 12:28:21 4 0x00 request/category/list    
+2024-01-12 12:28:21 4 0x01 response/category/list SUCCESS  
+2024-01-12 12:28:21 4 0x00 request/room/list    
+2024-01-12 12:28:21 4 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-12 12:28:21 4 0x00 request/room/detail    
+2024-01-12 12:28:21 4 0x01 response/room/detail   Get room detail success
+2024-01-12 12:28:21 4 0x00 request/room/list/owner    
+2024-01-12 12:28:21 4 0x01 response/room/list/owner SUCCESS Get list rooms owner success
+2024-01-12 12:28:43 5 Error: Cannot received data from client!
+2024-01-12 12:28:44 4 0x00 request/result/history    
+2024-01-12 12:28:44 4 0x01 response/result/history SUCCESS  
+2024-01-12 12:28:45 4 0x00 request/result/room    
+2024-01-12 12:28:45 4 0x01 response/result/room SUCCESS Get result in room exam success
+2024-01-12 12:28:50 4 Error: Cannot received data from client!
+2024-01-12 12:32:17 6 Error: Cannot received data from client!
+2024-01-12 12:32:25 4 0x02 request/login    
+2024-01-12 12:32:25 4 0x03 response/login FAILURE Account is logged in another location.
+2024-01-12 12:32:54 4 0x02 request/login    
+2024-01-12 12:32:54 4 0x03 response/login SUCCESS Login success!
+2024-01-12 12:32:54 4 0x00 request/category/list    
+2024-01-12 12:32:54 4 0x01 response/category/list SUCCESS  
+2024-01-12 12:32:54 4 0x00 request/room/list    
+2024-01-12 12:32:54 4 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-12 12:32:54 4 0x00 request/room/detail    
+2024-01-12 12:32:54 4 0x01 response/room/detail   Get room detail success
+2024-01-12 12:32:54 4 0x00 request/room/list/owner    
+2024-01-12 12:32:54 4 0x01 response/room/list/owner SUCCESS Get list rooms owner success
+2024-01-12 12:32:55 4 0x00 request/result/room    
+2024-01-12 12:32:55 4 0x01 response/result/room SUCCESS Get result in room exam success
+2024-01-12 12:33:45 4 Error: Cannot received data from client!
+2024-01-12 12:37:46 4 0x02 request/login    
+2024-01-12 12:37:46 4 0x03 response/login SUCCESS Login success!
+2024-01-12 12:37:47 4 0x00 request/category/list    
+2024-01-12 12:37:47 4 0x01 response/category/list SUCCESS  
+2024-01-12 12:37:47 4 0x00 request/room/list    
+2024-01-12 12:37:47 4 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-12 12:37:47 4 0x00 request/room/detail    
+2024-01-12 12:37:47 4 0x01 response/room/detail   Get room detail success
+2024-01-12 12:37:47 4 0x00 request/room/list/owner    
+2024-01-12 12:37:47 4 0x01 response/room/list/owner SUCCESS Get list rooms owner success
+2024-01-12 12:37:48 4 0x00 request/result/room    
+2024-01-12 12:37:48 4 0x01 response/result/room SUCCESS Get result in room exam success
+2024-01-12 12:47:23 4 Error: Cannot received data from client!
+2024-01-12 12:47:44 4 0x02 request/login    
+2024-01-12 12:47:44 4 0x03 response/login SUCCESS Login success!
+2024-01-12 12:47:44 4 0x00 request/category/list    
+2024-01-12 12:47:44 4 0x01 response/category/list SUCCESS  
+2024-01-12 12:47:44 4 0x00 request/room/list    
+2024-01-12 12:47:44 4 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-12 12:47:44 4 0x00 request/room/detail    
+2024-01-12 12:47:44 4 0x01 response/room/detail   Get room detail success
+2024-01-12 12:47:44 4 0x00 request/room/list/owner    
+2024-01-12 12:47:44 4 0x01 response/room/list/owner SUCCESS Get list rooms owner success
+2024-01-12 12:47:46 4 0x00 request/result/room    
+2024-01-12 12:47:46 4 0x01 response/result/room SUCCESS Get result in room exam success
+2024-01-12 12:47:46 4 Error: Cannot received data from client!
+2024-01-12 12:48:23 4 0x02 request/login    
+2024-01-12 12:48:23 4 0x03 response/login SUCCESS Login success!
+2024-01-12 12:48:23 4 0x00 request/category/list    
+2024-01-12 12:48:23 4 0x01 response/category/list SUCCESS  
+2024-01-12 12:48:23 4 0x00 request/room/list    
+2024-01-12 12:48:23 4 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-12 12:48:23 4 0x00 request/room/detail    
+2024-01-12 12:48:23 4 0x01 response/room/detail   Get room detail success
+2024-01-12 12:48:23 4 0x00 request/room/list/owner    
+2024-01-12 12:48:23 4 0x01 response/room/list/owner SUCCESS Get list rooms owner success
+2024-01-12 12:48:24 4 0x00 request/result/history    
+2024-01-12 12:48:24 4 0x01 response/result/history SUCCESS  
+2024-01-12 12:48:24 4 Error: Cannot received data from client!
+2024-01-12 12:48:59 4 0x02 request/login    
+2024-01-12 12:48:59 4 0x03 response/login SUCCESS Login success!
+2024-01-12 12:48:59 4 0x00 request/category/list    
+2024-01-12 12:48:59 4 0x01 response/category/list SUCCESS  
+2024-01-12 12:48:59 4 0x00 request/room/list    
+2024-01-12 12:48:59 4 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-12 12:48:59 4 0x00 request/room/detail    
+2024-01-12 12:48:59 4 0x01 response/room/detail   Get room detail success
+2024-01-12 12:48:59 4 0x00 request/room/list/owner    
+2024-01-12 12:48:59 4 0x01 response/room/list/owner FAILURE No matching rooms found
+2024-01-12 12:49:00 4 0x00 request/result/history    
+2024-01-12 12:49:00 4 0x01 response/result/history SUCCESS  
+2024-01-12 12:49:00 4 Error: Cannot received data from client!
+2024-01-12 12:50:01 5 0x02 request/login    
+2024-01-12 12:50:01 5 0x03 response/login SUCCESS Login success!
+2024-01-12 12:50:01 5 0x00 request/category/list    
+2024-01-12 12:50:01 5 0x01 response/category/list SUCCESS  
+2024-01-12 12:50:01 5 0x00 request/room/list    
+2024-01-12 12:50:01 5 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-12 12:50:01 5 0x00 request/room/detail    
+2024-01-12 12:50:01 5 0x01 response/room/detail   Get room detail success
+2024-01-12 12:50:01 5 0x00 request/room/list/owner    
+2024-01-12 12:50:01 5 0x01 response/room/list/owner SUCCESS Get list rooms owner success
+2024-01-12 12:50:02 5 0x00 request/result/room    
+2024-01-12 12:50:02 5 0x01 response/result/room SUCCESS Get result in room exam success
+2024-01-12 12:50:04 5 Error: Cannot received data from client!
+2024-01-12 12:50:37 4 0x02 request/login    
+2024-01-12 12:50:37 4 0x03 response/login SUCCESS Login success!
+2024-01-12 12:50:37 4 0x00 request/category/list    
+2024-01-12 12:50:37 4 0x01 response/category/list SUCCESS  
+2024-01-12 12:50:37 4 0x00 request/room/list    
+2024-01-12 12:50:37 4 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-12 12:50:37 4 0x00 request/room/detail    
+2024-01-12 12:50:37 4 0x01 response/room/detail   Get room detail success
+2024-01-12 12:50:37 4 0x00 request/room/list/owner    
+2024-01-12 12:50:37 4 0x01 response/room/list/owner FAILURE No matching rooms found
+2024-01-12 12:50:39 4 0x00 request/result/history    
+2024-01-12 12:50:39 4 0x01 response/result/history SUCCESS  
+2024-01-12 12:50:40 4 Error: Cannot received data from client!
+2024-01-12 12:51:41 4 0x02 request/login    
+2024-01-12 12:51:41 4 0x03 response/login SUCCESS Login success!
+2024-01-12 12:51:41 4 0x00 request/category/list    
+2024-01-12 12:51:41 4 0x01 response/category/list SUCCESS  
+2024-01-12 12:51:41 4 0x00 request/room/list    
+2024-01-12 12:51:41 4 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-12 12:51:41 4 0x00 request/room/detail    
+2024-01-12 12:51:41 4 0x01 response/room/detail   Get room detail success
+2024-01-12 12:51:41 4 0x00 request/room/list/owner    
+2024-01-12 12:51:41 4 0x01 response/room/list/owner FAILURE No matching rooms found
+2024-01-12 12:51:42 4 0x00 request/result/history    
+2024-01-12 12:51:42 4 0x01 response/result/history SUCCESS  
+2024-01-12 12:51:45 4 Error: Cannot received data from client!
+2024-01-12 12:52:33 4 0x02 request/login    
+2024-01-12 12:52:33 4 0x03 response/login SUCCESS Login success!
+2024-01-12 12:52:34 4 0x00 request/category/list    
+2024-01-12 12:52:34 4 0x01 response/category/list SUCCESS  
+2024-01-12 12:52:34 4 0x00 request/room/list    
+2024-01-12 12:52:34 4 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-12 12:52:34 4 0x00 request/room/detail    
+2024-01-12 12:52:34 4 0x01 response/room/detail   Get room detail success
+2024-01-12 12:52:34 4 0x00 request/room/list/owner    
+2024-01-12 12:52:34 4 0x01 response/room/list/owner FAILURE No matching rooms found
+2024-01-12 12:52:35 4 0x00 request/result/history    
+2024-01-12 12:52:35 4 0x01 response/result/history SUCCESS  
+2024-01-12 12:52:44 4 Error: Cannot received data from client!
+2024-01-12 13:02:54 4 Error: Cannot received data from client!
+2024-01-12 13:03:14 5 0x02 request/login    
+2024-01-12 13:03:14 5 0x03 response/login SUCCESS Login success!
+2024-01-12 13:03:14 5 0x00 request/category/list    
+2024-01-12 13:03:14 5 0x01 response/category/list SUCCESS  
+2024-01-12 13:03:14 5 0x00 request/room/list    
+2024-01-12 13:03:14 5 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-12 13:03:14 5 0x00 request/room/detail    
+2024-01-12 13:03:14 5 0x01 response/room/detail   Get room detail success
+2024-01-12 13:03:14 5 0x00 request/room/list/owner    
+2024-01-12 13:03:14 5 0x01 response/room/list/owner FAILURE No matching rooms found
+2024-01-12 13:03:17 5 0x00 request/room/join    
+2024-01-12 13:03:17 5 0x01 response/room/join SUCCESS Join room successful!
+2024-01-12 13:03:17 5 0x00 request/room/detail    
+2024-01-12 13:03:17 5 0x01 response/room/detail   Get room detail success
+2024-01-12 13:03:25 4 0x02 request/login    
+2024-01-12 13:03:25 4 0x03 response/login SUCCESS Login success!
+2024-01-12 13:03:25 4 0x00 request/category/list    
+2024-01-12 13:03:25 4 0x01 response/category/list SUCCESS  
+2024-01-12 13:03:25 4 0x00 request/room/list    
+2024-01-12 13:03:25 4 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-12 13:03:25 4 0x00 request/room/detail    
+2024-01-12 13:03:25 4 0x01 response/room/detail   Get room detail success
+2024-01-12 13:03:25 4 0x00 request/room/list/owner    
+2024-01-12 13:03:25 4 0x01 response/room/list/owner FAILURE No matching rooms found
+2024-01-12 13:03:29 4 0x00 request/room/join    
+2024-01-12 13:03:29 4 0x01 response/room/join SUCCESS Join room successful!
+2024-01-12 13:03:29 4 0x00 request/room/detail    
+2024-01-12 13:03:29 4 0x01 response/room/detail   Get room detail success
+2024-01-12 13:03:43 6 0x02 request/login    
+2024-01-12 13:03:43 6 0x03 response/login SUCCESS Login success!
+2024-01-12 13:03:43 6 0x00 request/category/list    
+2024-01-12 13:03:43 6 0x01 response/category/list SUCCESS  
+2024-01-12 13:03:43 6 0x00 request/room/list    
+2024-01-12 13:03:43 6 0x01 response/room/list SUCCESS Get list rooms success.
+2024-01-12 13:03:43 6 0x00 request/room/detail    
+2024-01-12 13:03:43 6 0x01 response/room/detail   Get room detail success
+2024-01-12 13:03:43 6 0x00 request/room/list/owner    
+2024-01-12 13:03:43 6 0x01 response/room/list/owner SUCCESS Get list rooms owner success
+2024-01-12 13:04:04 6 0x00 request/room/join    
+2024-01-12 13:04:04 6 0x01 response/room/join SUCCESS Join room successful!
+2024-01-12 13:04:04 6 0x00 request/room/detail    
+2024-01-12 13:04:04 6 0x01 response/room/detail   Get room detail success
+2024-01-12 13:04:08 4 0x00 request/room/ready    
+2024-01-12 13:04:08 4 0x01 response/room/ready SUCCESS 
+2024-01-12 13:04:08 5 0x01 response/room/ready SUCCESS 
+2024-01-12 13:04:16 6 0x00 request/room/ready    
+2024-01-12 13:04:16 4 0x01 response/room/ready SUCCESS 
+2024-01-12 13:04:16 6 0x01 response/room/ready SUCCESS 
+2024-01-12 13:04:16 5 0x01 response/room/ready SUCCESS 
+2024-01-12 13:04:26 6 Error: Cannot received data from client!
+2024-01-12 13:04:27 5 Error: Cannot received data from client!
+2024-01-12 13:04:30 4 Error: Cannot received data from client!
